@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\obj\Debug\CRUDMsAccess1.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\obj\Debug\CRUDMsAccess1.Form1.resources
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\obj\Debug\CRUDMsAccess1.Properties.Resources.resources
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\obj\Debug\CRUDMsAccess1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\obj\Debug\CRUDMsAccess1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\bin\Debug\mydb1.accdb
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\bin\Debug\CRUDMsAccess1.exe.config
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\bin\Debug\CRUDMsAccess1.exe
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\bin\Debug\CRUDMsAccess1.pdb
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\obj\Debug\CRUDMsAccess1.exe
+C:\Users\ACER\source\repos\CRUDMsAccess1\CRUDMsAccess1\obj\Debug\CRUDMsAccess1.pdb
